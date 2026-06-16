@@ -1,0 +1,3 @@
+payload:
+  - DOMAIN,server.googleapis.cn
+  - IP-CIDR,216.239.32.0/19,no-resolve
