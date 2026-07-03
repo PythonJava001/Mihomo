@@ -325,6 +325,8 @@ payload:
   - IP-CIDR6,2a0a:f280::/32,no-resolve
   - IP-CIDR6,2c0f:fb50::/32,no-resolve
   - IP-ASN,13414,no-resolve
+  - IP-ASN,13335,no-resolve
+  - IP-ASN,15169,no-resolve
   - IP-ASN,140061,no-resolve
   - IP-ASN,140064,no-resolve
   - IP-ASN,140066,no-resolve
