@@ -2,6 +2,7 @@ payload:
   - DOMAIN,identity.apple.com
   - DOMAIN-KEYWORD,apple.com.edgekey.net
   - DOMAIN-SUFFIX,akadns.net
+  - DOMAIN-SUFFIX,akamaized.net
   - DOMAIN-SUFFIX,bilibili.tv
   - DOMAIN-SUFFIX,bilicdn1.com
   - DOMAIN-SUFFIX,biliintl.com
@@ -76,7 +77,6 @@ payload:
   - DOMAIN-SUFFIX,oneconnect.net
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,oppo-intl.com
-  - DOMAIN-SUFFIX,p-bstarstatic.akamaized.net
   - DOMAIN-SUFFIX,patpat.com
   - DOMAIN-SUFFIX,patpat.net
   - DOMAIN-SUFFIX,paypal.com
@@ -92,7 +92,6 @@ payload:
   - DOMAIN-SUFFIX,skyscanner.net
   - DOMAIN-SUFFIX,snailgame.com
   - DOMAIN-SUFFIX,soundcore.com
-  - DOMAIN-SUFFIX,steamcommunity-a.akamaihd.net
   - DOMAIN-SUFFIX,steamcommunity.com
   - DOMAIN-SUFFIX,steampowered.com
   - DOMAIN-SUFFIX,steamstatic.com
@@ -128,14 +127,12 @@ payload:
   - DOMAIN-SUFFIX,trendyol.com
   - DOMAIN-SUFFIX,trip.com
   - DOMAIN-SUFFIX,twimg.com
-  - DOMAIN-SUFFIX,upos-bstar-mirrorakam.akamaized.net
-  - DOMAIN-SUFFIX,upos-bstar1-mirrorakam.akamaized.net
   - DOMAIN-SUFFIX,uptodown.com
-  - DOMAIN-SUFFIX,v.wetv.info
   - DOMAIN-SUFFIX,voovmeeting.com
   - DOMAIN-SUFFIX,walmart.com
   - DOMAIN-SUFFIX,webnovel.com
   - DOMAIN-SUFFIX,wetv.com
+  - DOMAIN-SUFFIX,wetv.info
   - DOMAIN-SUFFIX,wetvcdn.com
   - DOMAIN-SUFFIX,whatsapp.com
   - DOMAIN-SUFFIX,whatsapp.net
