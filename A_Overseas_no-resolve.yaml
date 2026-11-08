@@ -1,6 +1,4 @@
 payload:
-  - DOMAIN,identity.apple.com
-  - DOMAIN-KEYWORD,apple.com.edgekey.net
   - DOMAIN-SUFFIX,akadns.net
   - DOMAIN-SUFFIX,akamaized.net
   - DOMAIN-SUFFIX,bilibili.tv
